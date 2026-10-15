@@ -12,7 +12,7 @@
     "": {
       "pf2e-homebrew": {
         "featTraits": {
-          "modification": "A modification alters the construction of an item. Each day during your daily preparations, you can apply any number of your modifications to applicable items in your possession, as well as your construct companion if you have one. When you Assemble an item, you can also immediately give it any of your applicable modifications. Modifications only function due to your constant tinkering and require an inventor’s ingenuity to operate, so only the inventor who applied a modification can use it or benefit from it. You must be using the item appropriately to benefit from its modifications, such as wearing armor, wielding a weapon, or holding a held item. Artifacts, intelligent items, and other similarly powerful objects might resist your attempts to modify them, with unpredictable results determined by the GM."
+          "": ""
         },
         "spellTraits": {
           "": ""
