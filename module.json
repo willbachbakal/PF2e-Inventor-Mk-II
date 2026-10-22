@@ -12,10 +12,24 @@
     "inventor-mk-ii": {
       "pf2e-homebrew": {
         "featTraits": {
-          "innovation": "An innovation's level is equal to your level. If your innovation is lost or destroyed, you can rebuild it the next time you make your daily preparations. An innovation only works due to your constant maintenance and tinkering, and therefore has no market Price."
+          "innovation": {
+            "label": "Innovation",
+            "description": "An innovation's level is equal to your level. If your innovation is lost or destroyed, you can rebuild it the next time you make your daily preparations. An innovation only works due to your constant maintenance and tinkering, and therefore has no market Price."
+          },
+          "modification": {
+            "label": "Modification",
+            "description": "A modification alters the construction of an item. Each day during your daily preparations, you can apply any number of your modifications to applicable items in your possession, as well as your construct companion if you have one. When you Assemble an item, you can also immediately give it any of your applicable modifications. Modifications only function due to your constant tinkering and require an inventor’s ingenuity to operate, so only the inventor who applied a modification can use it or benefit from it. You must be using the item appropriately to benefit from its modifications, such as wearing armor, wielding a weapon, or holding a held item. Artifacts, intelligent items, and other similarly powerful objects might resist your attempts to modify them, with unpredictable results determined by the GM."
+          },
+          "unstable": {
+            "label": "Unstable",
+            "description": "Unstable actions can yield unpredictable results. When you use an unstable action, first attempt a Crafting check against a standard DC for your level. On a critical success, your action works without a hitch. Otherwise, your action works normally but your gizmos malfunction in spectacular (though harmless) fashion, such as with a belch of smoke or a shower of sparks, and you can’t use unstable actions until you use an Interact action to fix them, or two Interact actions on a failure. On a critical failure, the action is disrupted, and you can’t use unstable actions until you use three Interact actions to fix your gizmos."
+          }
         },
         "spellTraits": {
-          "": ""
+          "unstable": {
+            "label": "Unstable",
+            "description": "Unstable actions can yield unpredictable results. When you use an unstable action, first attempt a Crafting check against a standard DC for your level. On a critical success, your action works without a hitch. Otherwise, your action works normally but your gizmos malfunction in spectacular (though harmless) fashion, such as with a belch of smoke or a shower of sparks, and you can’t use unstable actions until you use an Interact action to fix them, or two Interact actions on a failure. On a critical failure, the action is disrupted, and you can’t use unstable actions until you use three Interact actions to fix your gizmos."
+          }
         }
       }
     }
