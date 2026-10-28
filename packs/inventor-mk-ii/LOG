@@ -1,0 +1,11 @@
+2026/10/28-13:18:33.724 3aac Recovering log #36
+2026/10/28-13:18:33.726 3aac Level-0 table #39: started
+2026/10/28-13:18:33.738 3aac Level-0 table #39: 346910 bytes OK
+2026/10/28-13:18:33.741 3aac Delete type=0 #36
+2026/10/28-13:18:33.743 3aac Delete type=3 #34
+2026/10/28-13:47:10.207 284c Compacting 1@0 + 1@1 files
+2026/10/28-13:47:10.217 284c Generated table #41@0: 143 keys, 111522 bytes
+2026/10/28-13:47:10.217 284c Compacted 1@0 + 1@1 files => 111522 bytes
+2026/10/28-13:47:10.217 284c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/28-13:47:10.218 284c Delete type=2 #37
+2026/10/28-13:47:10.218 284c Delete type=2 #39
